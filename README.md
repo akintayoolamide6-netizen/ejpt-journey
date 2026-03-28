@@ -139,8 +139,8 @@ No shortcuts. No automation dependency.
 
 I’m documenting my learning process and insights:
 
-* Medium: (Add link)
-* LinkedIn: (Add link)
+* Medium: (https://medium.com/@akintayoolamide6/)
+* LinkedIn: (www.linkedin.com/in/olamide-akintayo-270290124)
 
 ---
 
