@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "201da4bcc9e08a55",
+    "type": "split",
+    "children": [
+      {
+        "id": "75adef5f3f5201b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d562bd6bf4ea3a8f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "512c5cfe6627c64f",
+    "type": "split",
+    "children": [
+      {
+        "id": "19dac40b60f753c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3db14989dee6064",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ef5c5b60b8558b30",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "65545a5b00ecac14",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 202.5
+  },
+  "right": {
+    "id": "894f23dc18bb2c79",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4da1672a5edcfd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12192087078502ac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4131637547207185",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c176b1c3a9b6091b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ef284ad8e632b973",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "356dbc453a4fcc15",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d562bd6bf4ea3a8f",
+  "lastOpenFiles": [
+    "05_Labs/Metasploitable/reconnaissance-and-enumeration.md",
+    "03_Exploitation/attacker-infrastructure-setup.md",
+    "05_Labs/screenshots/nmap-xmas-scan-error-and-fix.png",
+    "05_Labs/screenshots/nmap-scan.png",
+    "05_Labs/screenshots/nmap-service-discovery.png",
+    "05_Labs/screenshots",
+    "05_Labs/New folder",
+    "05_Labs/Metasploitable/nmap-service-discovery.png",
+    "05_Labs/Metasploitable/Screenshot 2026-03-26 061714.png",
+    "05_Labs/TryHackMe/nmap-lab.md",
+    "05_Labs/TryHackMe/nmap-xmas-scan-error-and-fix.png",
+    "05_Labs/TryHackMe/Screenshot 2026-03-26 125708.png",
+    "05_Labs/TryHackMe/nmap-scan.png",
+    "05_Labs/TryHackMe/metasploitable-enum.md",
+    "05_Labs/TryHackMe",
+    "05_Labs/Metasploitable - Copy/nmap-scan.png",
+    "05_Labs/Metasploitable - Copy/metasploitable-enum.md",
+    "05_Labs/Metasploitable - Copy",
+    "05_Labs/Metasploitable/nmap-scan.png",
+    "05_Labs/Metasploitable",
+    "06-CheatSheets/Untitled.md",
+    "00_Fundamentals/Python/Virtual Environment.md",
+    "$R4LSFOM.md",
+    "00_Fundamentals/Networking/TCP vs UDP.md",
+    "07_Portfolio/Content&Articles/medium post.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Welcome.md",
+    "07_Portfolio/Content&Articles",
+    "06-CheatSheets/cheet.md",
+    "01_Tools/Nmap/Nmap Quick Commands.md",
+    "00_Fundamentals/Python",
+    "00_Weekly_Logs/Week 01 - Progress.md",
+    "00_Fundamentals/Networking",
+    "01_Tools/Nmap/N-map scan types - Metasploitable.md",
+    "01_Tools/Nmap/NSE Scripts - Enumeration.md",
+    "01_Tools/Nmap/Port Scanning - Nmap.md",
+    "02_Enumeration/Linux/Netstat - Linux Enumeration.md",
+    "01_Tools/Nmap scan type.md",
+    "07_Portfolio/WHY I'M LEARNING PENTESTING.md"
+  ]
+}
