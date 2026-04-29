@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "75adef5f3f5201b9",
+        "id": "2a368dfff25cc8c6",
         "type": "tabs",
         "children": [
           {
-            "id": "d562bd6bf4ea3a8f",
+            "id": "b279eafa6c250706",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00_Weekly_Logs/Week 2 progress.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Week 2 progress"
             }
           }
         ]
@@ -176,8 +180,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "d562bd6bf4ea3a8f",
+  "active": "b279eafa6c250706",
   "lastOpenFiles": [
+    "00_Weekly_Logs/Week 2 progress.md",
+    "00_Weekly_Logs/Week 01 - Progress.md",
+    "05_Labs/Pickle_Rick/images.md",
+    "06-CheatSheets/web_enum.md",
+    "05_Labs/Pickle_Rick/pickle_rick.md",
+    "05_Labs/Pickle_Rick",
+    "02_Enumeration/manual_enumeration.md",
+    "06-CheatSheets/dns_snmp_commands.md",
+    "02_Enumeration/DNS_SNMP_enumeration.md",
+    "02_Enumeration/HTTP_enumeration.md",
+    "02_Enumeration/SMB_enumeration.md",
+    "02_Enumeration/FTP_enumeration.md",
+    "06-CheatSheets/smb_commands.md",
+    "06-CheatSheets/ftp_commands.md",
+    "07_Portfolio/Content&Articles/medium post.md",
     "05_Labs/Metasploitable/reconnaissance-and-enumeration.md",
     "03_Exploitation/attacker-infrastructure-setup.md",
     "05_Labs/screenshots/nmap-xmas-scan-error-and-fix.png",
@@ -198,11 +217,9 @@
     "05_Labs/Metasploitable - Copy",
     "05_Labs/Metasploitable/nmap-scan.png",
     "05_Labs/Metasploitable",
-    "06-CheatSheets/Untitled.md",
     "00_Fundamentals/Python/Virtual Environment.md",
     "$R4LSFOM.md",
     "00_Fundamentals/Networking/TCP vs UDP.md",
-    "07_Portfolio/Content&Articles/medium post.md",
     "Untitled.base",
     "Untitled 1.base",
     "Welcome.md",
@@ -210,13 +227,6 @@
     "06-CheatSheets/cheet.md",
     "01_Tools/Nmap/Nmap Quick Commands.md",
     "00_Fundamentals/Python",
-    "00_Weekly_Logs/Week 01 - Progress.md",
-    "00_Fundamentals/Networking",
-    "01_Tools/Nmap/N-map scan types - Metasploitable.md",
-    "01_Tools/Nmap/NSE Scripts - Enumeration.md",
-    "01_Tools/Nmap/Port Scanning - Nmap.md",
-    "02_Enumeration/Linux/Netstat - Linux Enumeration.md",
-    "01_Tools/Nmap scan type.md",
-    "07_Portfolio/WHY I'M LEARNING PENTESTING.md"
+    "01_Tools/Nmap/N-map scan types - Metasploitable.md"
   ]
 }
