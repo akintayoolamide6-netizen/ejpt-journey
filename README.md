@@ -6,151 +6,162 @@ Everything here reflects **real lab work, manual enumeration, and practical pene
 
 ---
 
-# Objective
+# 🎯 Objective
 
-Build strong foundational penetration testing skills through:
+## 🚀 What This Repository Shows
 
-* Real lab environments
-* Manual enumeration
-* Vulnerability discovery
-* Exploitation practice
-* Professional documentation
+This repository demonstrates my ability to:
+
+- Perform full-service enumeration on target systems  
+- Identify misconfigurations and exposed services  
+- Analyze real vulnerabilities in lab environments  
+- Navigate Linux systems and restricted shells  
+- Document findings in a structured, professional format    
+
+
+# 🧪 Lab Environment
+
+**Attacker Machine:** Kali Linux  
+**Target Machine:** Metasploitable 2  
+**Platform:** VMware Workstation  
+
+All testing is performed in a **controlled and isolated lab environment**.
 
 ---
 
-# Lab Environment
+# 🔥 Highlighted Work
 
-**Attacker Machine:** Kali Linux
-**Target Machine:** Metasploitable 2
-**Virtualization Platform:** VMware Workstation
-
-This controlled lab environment is used for **safe vulnerability testing and exploitation practice**.
+## 🧪 Pickle Rick (TryHackMe)
+- Discovered hidden credentials via **page source inspection**
+- Extracted sensitive data from **robots.txt**
+- Performed **directory enumeration** to uncover hidden endpoints
+- Gained access to a **web-based command execution interface**
+- Navigated system directories to retrieve sensitive files under restricted conditions
 
 ---
 
-# What I've Covered So Far
+## 🖥️ Metasploitable 2 Enumeration
+
+Performed full attack surface analysis:
+
+- Identified open services (FTP, SMB, HTTP, SSH)
+- Discovered **anonymous SMB shares with read/write access**
+- Enumerated web directories including:
+  - `/phpMyAdmin`
+  - `/dav`
+  - `/test`
+- Detected outdated services:
+  - Apache 2.2.8
+  - PHP 5.2.4
+  - vsFTPd 2.3.4
+- Confirmed vulnerabilities using:
+  - Nikto
+  - Manual banner grabbing (Netcat)
+
+---
+
+# 🔍 What I've Covered
 
 ## Reconnaissance & Enumeration
 
-* Network discovery using Nmap
-* Service discovery scans
-* Full port enumeration
-* OS detection
-* SMB enumeration
-* Attack surface analysis
-
-## Attacker Infrastructure Setup
-
-* SSH service configuration
-* Python HTTP server setup
-* Reverse shell preparation
-* Payload hosting environment
-
-## Tools Used
-
-* Nmap
-* Netstat
-* SS
-* Python HTTP Server
-* SMB Enumeration Scripts
-* Linux Networking Tools
+- Network discovery using Nmap  
+- Full port scanning  
+- Service/version detection  
+- SMB share enumeration  
+- HTTP directory brute forcing (dirb)  
+- Vulnerability scanning (Nikto)  
+- Manual enumeration (Netcat)  
 
 ---
 
-# Repository Structure
+## ⚙️ Attacker Infrastructure Setup
+
+- Python HTTP server for payload delivery  
+- Reverse shell preparation  
+- Basic service hosting  
+
+---
+
+# 🧰 Tools Used
+
+- Nmap  
+- Dirb  
+- Nikto  
+- Netcat  
+- SMBClient  
+- FTP  
+- Python HTTP Server  
+- Linux CLI tools  
+
+---
+
+# 📂 Repository Structure
 
 ```bash
 .
-├── labs/          # Hands-on lab walkthroughs
-├── notes/         # Obsidian vault notes
-├── screenshots/   # Evidence from labs
-├── scripts/       # My custom scripts (coming soon)
+├── 02_Enumeration/     # Service enumeration notes
+├── 05_Labs/            # Completed lab walkthroughs
+├── 06_Cheat_Sheets/    # Quick command references
+├── screenshots/        # Evidence from labs
 └── README.md
-```
 
----
+🧠 Methodology
 
-# Methodology
+My workflow follows a structured penetration testing process:
 
-My workflow follows a structured penetration testing approach:
+Reconnaissance
+Service Enumeration
+Attack Surface Analysis
+Vulnerability Identification
+Exploitation
+Post-Exploitation
+Documentation
 
-1. Lab Setup
-2. Network Discovery
-3. Service Enumeration
-4. Vulnerability Identification
-5. Exploitation
-6. Post-Exploitation
-7. Documentation
+## 🧩 Skills Demonstrated (With Evidence)
 
----
+| Skill | Evidence |
+|------|--------|
+| SMB Enumeration | Anonymous share access discovered |
+| Web Enumeration | Hidden directories found using dirb |
+| Vulnerability Detection | Outdated Apache & PHP identified |
+| Manual Enumeration | Banner grabbing using netcat |
+| Linux Navigation | Retrieved files via restricted shell |
 
-# Key Skills Being Developed
+📈 Progress Status
 
-* Network enumeration
-* Linux fundamentals
-* Service discovery
-* Vulnerability analysis
-* Exploitation techniques
-* Documentation & reporting
+Current Phase: Enumeration & Attack Surface Analysis
 
----
+Next Focus:
 
-# Progress Status
+Service exploitation
+Reverse shells
+Privilege escalation
 
-Current Phase: **Enumeration & Attack Surface Analysis**
+📸 Documentation Approach
 
-Next Phase:
+Each lab includes:
 
-* SMB exploitation
-* Service exploitation
-* Reverse shells
-* Privilege escalation
+Commands used
+Output analysis
+Screenshots
+Key findings
+Lessons learned
 
----
+🧠 Learning Philosophy
+Understand tools deeply, not just use them
+Focus on manual techniques
+Document everything professionally
+Build real-world thinking
 
-# Screenshots & Documentation
+🔗 Follow My Journey
+Medium: https://medium.com/@akintayoolamide6/
+LinkedIn: www.linkedin.com/in/olamide-akintayo-270290124
 
-All findings include:
+⚠️ Disclaimer
 
-* Commands used
-* Output analysis
-* Screenshots
-* Security observations
-* Lessons learned
+This repository is for educational purposes only.
+All activities are conducted in a controlled lab environment.
 
-This repository serves as a **living penetration testing journal**.
+🏁 Goal
 
----
-
-# Learning Philosophy
-
-This journey focuses on:
-
-* Manual enumeration
-* Understanding tools deeply
-* Professional documentation
-* Real-world methodology
-
-No shortcuts. No automation dependency.
-
----
-
-# Follow My Journey
-
-I’m documenting my learning process and insights:
-
-* Medium: (https://medium.com/@akintayoolamide6/)
-* LinkedIn: (www.linkedin.com/in/olamide-akintayo-270290124)
-
----
-
-# Disclaimer
-
-This repository is for **educational purposes only**.
-All testing is performed in a **controlled lab environment**.
-
----
-
-# Goal
-
-Pass the **eJPT certification** and build strong foundations in penetration testing and cybersecurity.
+Earn the eJPT certification and build a strong foundation for a career in penetration testing.

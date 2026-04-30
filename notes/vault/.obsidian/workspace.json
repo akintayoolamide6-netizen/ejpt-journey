@@ -182,6 +182,14 @@
   },
   "active": "b279eafa6c250706",
   "lastOpenFiles": [
+    "05_Labs/Pickle_Rick/Images/source_code_username.png",
+    "05_Labs/Pickle_Rick/Images/nmap_scan.png",
+    "05_Labs/Pickle_Rick/Images/ingredient_found.png",
+    "05_Labs/Pickle_Rick/Images/dirb_results.png",
+    "05_Labs/Pickle_Rick/Images/assets_listing.png",
+    "05_Labs/Pickle_Rick/Images/robots_txt.png",
+    "05_Labs/Pickle_Rick/Images",
+    "05_Labs/Pickle_Rick/New folder",
     "00_Weekly_Logs/Week 2 progress.md",
     "00_Weekly_Logs/Week 01 - Progress.md",
     "05_Labs/Pickle_Rick/images.md",
@@ -207,15 +215,10 @@
     "05_Labs/Metasploitable/nmap-service-discovery.png",
     "05_Labs/Metasploitable/Screenshot 2026-03-26 061714.png",
     "05_Labs/TryHackMe/nmap-lab.md",
-    "05_Labs/TryHackMe/nmap-xmas-scan-error-and-fix.png",
-    "05_Labs/TryHackMe/Screenshot 2026-03-26 125708.png",
-    "05_Labs/TryHackMe/nmap-scan.png",
     "05_Labs/TryHackMe/metasploitable-enum.md",
     "05_Labs/TryHackMe",
-    "05_Labs/Metasploitable - Copy/nmap-scan.png",
     "05_Labs/Metasploitable - Copy/metasploitable-enum.md",
     "05_Labs/Metasploitable - Copy",
-    "05_Labs/Metasploitable/nmap-scan.png",
     "05_Labs/Metasploitable",
     "00_Fundamentals/Python/Virtual Environment.md",
     "$R4LSFOM.md",
@@ -223,10 +226,7 @@
     "Untitled.base",
     "Untitled 1.base",
     "Welcome.md",
-    "07_Portfolio/Content&Articles",
     "06-CheatSheets/cheet.md",
-    "01_Tools/Nmap/Nmap Quick Commands.md",
-    "00_Fundamentals/Python",
-    "01_Tools/Nmap/N-map scan types - Metasploitable.md"
+    "01_Tools/Nmap/Nmap Quick Commands.md"
   ]
 }
