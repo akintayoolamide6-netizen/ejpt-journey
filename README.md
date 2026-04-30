@@ -8,7 +8,17 @@ Everything here reflects **real lab work, manual enumeration, and practical pene
 
 # 🎯 Objective
 
-## 🚀 What This Repository Shows
+Build strong foundational penetration testing skills through:
+
+- Real lab environments  
+- Manual enumeration  
+- Vulnerability discovery  
+- Exploitation practice  
+- Professional documentation  
+
+---
+
+# 🚀 What This Repository Shows
 
 This repository demonstrates my ability to:
 
@@ -16,8 +26,9 @@ This repository demonstrates my ability to:
 - Identify misconfigurations and exposed services  
 - Analyze real vulnerabilities in lab environments  
 - Navigate Linux systems and restricted shells  
-- Document findings in a structured, professional format    
+- Document findings in a structured, professional format  
 
+---
 
 # 🧪 Lab Environment
 
@@ -46,17 +57,17 @@ Performed full attack surface analysis:
 
 - Identified open services (FTP, SMB, HTTP, SSH)
 - Discovered **anonymous SMB shares with read/write access**
-- Enumerated web directories including:
+- Enumerated web directories:
   - `/phpMyAdmin`
   - `/dav`
   - `/test`
 - Detected outdated services:
-  - Apache 2.2.8
-  - PHP 5.2.4
-  - vsFTPd 2.3.4
-- Confirmed vulnerabilities using:
-  - Nikto
-  - Manual banner grabbing (Netcat)
+  - Apache 2.2.8  
+  - PHP 5.2.4  
+  - vsFTPd 2.3.4  
+- Confirmed findings using:
+  - Nikto  
+  - Manual banner grabbing (Netcat)  
 
 ---
 
@@ -99,25 +110,29 @@ Performed full attack surface analysis:
 
 ```bash
 .
-├── 02_Enumeration/     # Service enumeration notes
-├── 05_Labs/            # Completed lab walkthroughs
-├── 06_Cheat_Sheets/    # Quick command references
-├── screenshots/        # Evidence from labs
-└── README.md
+├── 02_Enumeration/
+├── 05_Labs/
+├── 06_Cheat_Sheets/
+├── screenshots/
+└── README.md  
+```
+---
 
-🧠 Methodology
+# 🧠 Methodology
 
 My workflow follows a structured penetration testing process:
 
-Reconnaissance
-Service Enumeration
-Attack Surface Analysis
-Vulnerability Identification
-Exploitation
-Post-Exploitation
-Documentation
+1. Reconnaissance  
+2. Service Enumeration  
+3. Attack Surface Analysis  
+4. Vulnerability Identification  
+5. Exploitation  
+6. Post-Exploitation  
+7. Documentation  
 
-## 🧩 Skills Demonstrated (With Evidence)
+---
+
+# 🧩 Skills Demonstrated (With Evidence)
 
 | Skill | Evidence |
 |------|--------|
@@ -127,41 +142,54 @@ Documentation
 | Manual Enumeration | Banner grabbing using netcat |
 | Linux Navigation | Retrieved files via restricted shell |
 
-📈 Progress Status
+---
 
-Current Phase: Enumeration & Attack Surface Analysis
+# 📈 Progress Status
 
-Next Focus:
+**Current Phase:** Enumeration & Attack Surface Analysis  
 
-Service exploitation
-Reverse shells
-Privilege escalation
+**Next Focus:**
+- Service exploitation  
+- Reverse shells  
+- Privilege escalation  
 
-📸 Documentation Approach
+---
+
+# 📸 Documentation Approach
 
 Each lab includes:
 
-Commands used
-Output analysis
-Screenshots
-Key findings
-Lessons learned
+- Commands used  
+- Output analysis  
+- Screenshots  
+- Key findings  
+- Lessons learned  
 
-🧠 Learning Philosophy
-Understand tools deeply, not just use them
-Focus on manual techniques
-Document everything professionally
-Build real-world thinking
+---
 
-🔗 Follow My Journey
-Medium: https://medium.com/@akintayoolamide6/
-LinkedIn: www.linkedin.com/in/olamide-akintayo-270290124
+# 🧠 Learning Philosophy
 
-⚠️ Disclaimer
+- Understand tools deeply, not just use them  
+- Focus on manual techniques  
+- Document everything professionally  
+- Build real-world thinking  
 
-This repository is for educational purposes only.
-All activities are conducted in a controlled lab environment.
+---
 
-🏁 Goal
+# 🔗 Follow My Journey
 
-Earn the eJPT certification and build a strong foundation for a career in penetration testing.
+- Medium: https://medium.com/@akintayoolamide6/  
+- LinkedIn: www.linkedin.com/in/olamide-akintayo-270290124  
+
+---
+
+# ⚠️ Disclaimer
+
+This repository is for **educational purposes only**.  
+All activities are conducted in a **controlled lab environment**.
+
+---
+
+# 🏁 Goal
+
+Earn the **eJPT certification** and build a strong foundation for a career in penetration testing.
